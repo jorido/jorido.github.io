@@ -9,6 +9,4 @@ I am a second-year computer engineering student at The University of British Col
 
 will add more info in near future
 
-### Screenshot
-
 ![Screenshot](screenshot.png)
