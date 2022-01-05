@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About me
+title: John Do
 ---
-
-### John Do
 
 I am a second-year computer engineering student at The University of British Columbia. 
 
